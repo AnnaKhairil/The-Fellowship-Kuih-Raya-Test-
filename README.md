@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -129,27 +129,27 @@
     const results = [
       {
         title: "🍡 Onde-onde – The Firecracker Fellow",
-        img: "onde-onde.png",
+        img: ![onde-onde](https://github.com/user-attachments/assets/684de367-25f1-44ab-bbdc-b9714ec949a5),
         description: "Explosive energy, major charm. Your classroom’s never boring and neither are you. You’re the kind of Fellow who can make anything fun—even grammar. (You probably also overshare with your students, and they love you for it.)"
       },
       {
         title: "🌈 Kuih Lapis – The Layered Strategist",
-        img: "kuih-lapis.png",
+        img: ![kuih-lapis](https://github.com/user-attachments/assets/cab544a6-c308-4654-84db-9fe7902554f3),
         description: "You’ve got range. Your lesson plans? Immaculate. Your Google Sheets? Colour-coded. You bring structure with flair."
       },
       {
         title: "🌿 Kuih Seri Muka – The Calm Hustler",
-        img: "seri-muka.png",
+        img: ![seri-muka](https://github.com/user-attachments/assets/a10e31ce-1c21-42ff-bd50-7d74b32b0161),
         description: "Understated brilliance. You keep your cool even when the projector dies again. Students know you’re the real MVP."
       },
       {
         title: "🍃✨ Kuih Bingka Pandan – The Silent Slayer",
-        img: "kuih-talam.png",
+        img: ![kuih-talam](https://github.com/user-attachments/assets/d7bdfbe7-50c4-449f-a247-2e0b0a22e981),
         description: "Lowkey iconic and always dependable. You’re the calm in chaos, the toastiest of team players. Quietly slaying group projects since forever."
       },
       {
         title: "🍌 Lepat Pisang – The Quiet Rock",
-        img: "lepat-pisang.png",
+        img: ![lepat-pisang](https://github.com/user-attachments/assets/81881bc8-73f7-4f14-92e3-ad7f585922ad),
         description: "Reliable, consistent, full of soul. First to show up, last to complain. Your students feel safe with you."
       }
     ];
@@ -197,9 +197,4 @@
   </script>
 </body>
 </html>
-![kuih-lapis](https://github.com/user-attachments/assets/03daa67b-33f8-4a80-a997-0ed12073787d)
-![onde-onde](https://github.com/user-attachments/assets/a08b7e5c-063a-4256-b544-784962d5f05c)
-![kuih-talam](https://github.com/user-attachments/assets/4e48c960-babd-4f74-bbd5-d39d737b4b63)
-![seri-muka](https://github.com/user-attachments/assets/98154d4e-3dcf-4a09-bcf3-b36fd9d84c3f)
-![lepat-pisang](https://github.com/user-attachments/assets/8b4d0c0c-c825-4c30-8139-aa33a67b2dbb)
-![cover](https://github.com/user-attachments/assets/f0107f05-52ee-46c4-960c-ff7505e62683)
+
